@@ -1,6 +1,6 @@
 {
   "require": {
-    "amani64/core": "2.4.*",
+    "amani64/core": "2.4",
     "barryvdh/laravel-debugbar": "3.*"
   },
   "require-dev": {
